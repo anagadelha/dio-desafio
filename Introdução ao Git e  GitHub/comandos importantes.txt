@@ -1,0 +1,28 @@
+Introdução ao Git e Github
+
+Comandos para configurar nome e e-mail no git:
+
+$ git config --global user.name "seu nome"
+
+$ git config --global user.email "seu e-mail"
+
+Comandos para commit:
+
+$ git add .: adiciona todos os arquivos ao index do git.
+
+$ git add -u: adiciona os arquivos que foram modificados.
+
+$ git commit -m 'descrição':  faz o commit do código adicionado com uma mensagem.
+
+$ git commit: faz o commit sem mensagem.
+
+$ git push: os arquivos serão salvos no repositório.
+
+Outros comandos importantes:
+
+$ git init: inicia um repositório.
+
+$ git status: mostra os arquivos que tiveram mudanças.
+
+$ git branch: verifica todas as branches presentes no repositório.
+
